@@ -1,0 +1,92 @@
+/* About.css */
+
+/* Styles for the main container */
+.info{
+    margin: 5rem 9rem;
+}
+
+  
+  /* Styles for the heading */
+  .info h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the subheading */
+  p {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  /* Styles for the paragraph */
+  p1 {
+    font-size: 16px;
+    color: #3a3939;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for the "more" section */
+  .more {
+    margin-top: 30px;
+  }
+  
+  /* Styles for the second heading */
+  .more h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the subheading within the "more" section */
+  .more p {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  /* Styles for the paragraph within the "more" section */
+  .more p1 {
+    font-size: 16px;
+    color: #3a3939;
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for the image container */
+  .pic {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+  }
+  
+  .pic img {
+    max-width: 70%;
+    max-height: 70%;
+  }
+  
+  /* Styles for the testimonial section */
+  .down {
+    margin-top: 30px;
+  }
+  
+  /* Styles for the testimonial heading */
+  .down h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the testimonial quote */
+  .down p {
+    font-style: italic;
+    color: #000000;
+    margin-bottom: 5px;
+  }
+  
+  /* Styles for the testimonial author */
+  .down p:last-child {
+    font-weight: bold;
+  }
+  
